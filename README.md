@@ -10,7 +10,7 @@ npm run dev
 
 ## Environment init
 - create .env.local from env file in root directory
-- set config in nuxt.config.tx file
+- set config in nuxt.config.ts file
 ```js
 {
     runtimeConfig: {
